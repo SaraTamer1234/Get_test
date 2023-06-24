@@ -15,6 +15,7 @@ struct ContentView: View {
             Text("Group members are:")
             Text(" sara tamer")
             Text("Alanood-student")
+            Text("Rana")
         }
         .padding()
     }
